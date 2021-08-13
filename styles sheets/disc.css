@@ -1,0 +1,36 @@
+.paragrappph{
+    margin-left:600px;
+    font-family:"Georgia",serif;
+    max-width: 600px;}
+
+.checked {
+    color: orange;
+}
+#piic{
+    float: left;border-radius: 10px;
+    border-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  }
+.incDic
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: #4fbfa8;
+    font-size: large;
+    text-align: center;
+    border-color: #4fbfa8;
+}
+.incDic:hover
+{
+    background: #8ED6C7;
+
+}
+.price{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: center;
+}
+

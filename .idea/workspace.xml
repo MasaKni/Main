@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f07ead7-3f61-44a3-8e7c-c31778d2c73e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3K00QNGtBIMzTYfspSS85Qmtt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sprinkels\Main\" />
+      <recent name="C:\xampp\htdocs\sprinkels\Main\donut description" />
+      <recent name="C:\xampp\htdocs\sprinkels\Main\styles sheets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/sprinkels/Main/login.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f07ead7-3f61-44a3-8e7c-c31778d2c73e" name="Default Changelist" comment="" />
+      <created>1606820107314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606820107314</updated>
+      <workItem from="1606820108392" duration="21786000" />
+      <workItem from="1607267758274" duration="25761000" />
+      <workItem from="1607415581391" duration="14385000" />
+      <workItem from="1607464153612" duration="122000" />
+      <workItem from="1607472775944" duration="11365000" />
+      <workItem from="1607709791164" duration="18583000" />
+      <workItem from="1607814736384" duration="22837000" />
+      <workItem from="1608116485521" duration="23405000" />
+      <workItem from="1608203715754" duration="8651000" />
+      <workItem from="1608241587018" duration="52961000" />
+      <workItem from="1608408088999" duration="3987000" />
+      <workItem from="1608428881095" duration="2335000" />
+      <workItem from="1608484115403" duration="1250000" />
+      <workItem from="1608559318455" duration="6742000" />
+      <workItem from="1608574937520" duration="1199000" />
+      <workItem from="1608623370099" duration="5488000" />
+      <workItem from="1609184388905" duration="1186000" />
+      <workItem from="1611430822503" duration="13000" />
+      <workItem from="1615054708864" duration="862000" />
+      <workItem from="1615998435430" duration="21000" />
+      <workItem from="1616105709295" duration="567000" />
+      <workItem from="1616106513097" duration="633000" />
+      <workItem from="1616107218605" duration="815000" />
+      <workItem from="1626728202687" duration="903000" />
+      <workItem from="1626729198586" duration="726000" />
+      <workItem from="1628887779928" duration="976000" />
+      <workItem from="1628888833874" duration="1225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Deployment" timestamp="1606820214660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1606820214660" />
+    <state x="395" y="90" key="#Inspections" timestamp="1607543459832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1607543459832" />
+    <state x="194" y="253" key="#SQL_Dialects" timestamp="1608310560054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="253" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1608310560054" />
+    <state x="517" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607372080932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607372080932" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1607785487522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607785487522" />
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1608306921450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1608306921450" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1608289793347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608289793347" />
+  </component>
+</project>
